@@ -1,0 +1,28 @@
+.leaderboard {
+  text-align: 'center';
+  display: block;
+}
+
+.leaderboard h1 {
+  border: 3px solid gray;
+  color: ghostwhite;
+  background-color: green;
+}
+
+.leaderboard table {
+  width: 80%;
+  margin: auto;
+  border: 1px solid #eee;
+}
+
+.leaderboard tr {
+  border: 1px solid #eee;
+}
+
+.leaderboard td {
+  border: 1px solid #eee;
+  padding: 5px;
+}
+.leaderboard a {
+  display: block;
+}
